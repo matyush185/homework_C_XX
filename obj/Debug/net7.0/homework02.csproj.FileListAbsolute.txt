@@ -1,0 +1,15 @@
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.csproj.AssemblyReference.cache
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.GeneratedMSBuildEditorConfig.editorconfig
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.AssemblyInfoInputs.cache
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.AssemblyInfo.cs
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.csproj.CoreCompileInputs.cache
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\bin\Debug\net7.0\homework02.exe
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\bin\Debug\net7.0\homework02.deps.json
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\bin\Debug\net7.0\homework02.runtimeconfig.json
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\bin\Debug\net7.0\homework02.dll
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\bin\Debug\net7.0\homework02.pdb
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.dll
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\refint\homework02.dll
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.pdb
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\homework02.genruntimeconfig.cache
+D:\10. GeekBrains\1. ИТ-инженер ИИ Мастер\1. HomeWork\1 четверть\4. Знакомство с языками программирования\homework02\obj\Debug\net7.0\ref\homework02.dll
