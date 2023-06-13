@@ -82,4 +82,9 @@ Console.Write("Input number Till: ");
 int till = Convert.ToInt32(Console.ReadLine ());
 Console.Write("Input number Exponent: ");
 int exponent = Convert.ToInt32(Console.ReadLine ());
-Cube (fr,till,exponent);
+
+if (fr <= 0 || till <= 0 || exponent <= 0)
+{
+    Console.WriteLine($"Data are not correct");
+}
+else Cube (fr,till,exponent);
