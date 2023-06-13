@@ -64,11 +64,11 @@ double DistAB (int x1, int y1, int z1, int x2, int y2, int z2)
 // 3 -> 1, 8, 27
 // 5 -> 1, 8, 27, 64, 125
 
-void Cube (int from, int till, int expon)
+void Cube (int fr, int till, int expon)
 {
     int i;
     double res;
-    for (i = from; i <= till; i++)
+    for (i = fr; i <= till; i++)
     {
         res = Math.Pow (i,expon);
         Console.Write($"{res:f0}, ");
@@ -77,9 +77,9 @@ void Cube (int from, int till, int expon)
 }
 
 Console.Write("Input number From: ");
-int from = Convert.ToInt32(Console.ReadLine ());
+int fr = Convert.ToInt32(Console.ReadLine ());
 Console.Write("Input number Till: ");
 int till = Convert.ToInt32(Console.ReadLine ());
 Console.Write("Input number Exponent: ");
 int exponent = Convert.ToInt32(Console.ReadLine ());
-Cube (from,till,exponent);
+Cube (fr,till,exponent);
