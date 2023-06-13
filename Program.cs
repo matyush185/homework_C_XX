@@ -80,6 +80,7 @@ void ShowArray (int [] array1)
     Console.WriteLine($"\b");
 }
 
+homework_C#_04
 Console.Write("Input Size of Array: ");
 int size1 = Convert.ToInt32(Console.ReadLine ());
 Console.Write("Input Min Possible Value of Array: ");
