@@ -82,5 +82,4 @@ Console.Write("Input number Till: ");
 int till = Convert.ToInt32(Console.ReadLine ());
 Console.Write("Input number Exponent: ");
 int exponent = Convert.ToInt32(Console.ReadLine ());
-
 Cube (from,till,exponent);
