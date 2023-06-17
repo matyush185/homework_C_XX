@@ -71,7 +71,6 @@ int SumOfElemOfOddPostOfArray (int [] array)
 }
 
 // Console.WriteLine($"{SumOfElemOfOddPostOfArray (array1)} is sum of elements of Array on odd positions");
-
 // Задача 38: Задайте массив вещественных чисел. Найдите разницу между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76
 double [] CreateRandomDoubleArray (int size) //, double min, double max) 
