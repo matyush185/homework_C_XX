@@ -150,7 +150,6 @@ void GetAvrgColumn2dArray (int [,] array2d)
     }
     ShowDoubleArray(avrgAr);
 }
-
 int [,] new2dArray = Create2dArray();
 Show2dArray (new2dArray);
 GetAvrgColumn2dArray (new2dArray);
