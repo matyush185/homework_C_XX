@@ -288,6 +288,7 @@ int [,] SpiralArray ()
     return create2Array;
 }
 
+
 int [,] new2dArray = SpiralArray();
 Show2dArray (new2dArray);
 // int [,] new2dArray_2 = ChangeDecrRow2dArray(new2dArray);
