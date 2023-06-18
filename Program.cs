@@ -66,21 +66,20 @@ int [] CreateNewArray (int size, int min, int max)
     return array1;
 }
 
-void ShowArray (int [] array1)
+void ShowArray (int [] array)
 {
     Console.Write($"[");
-    for (int i = 1; i <= array1.Length; i++)
+    for (int i = 0; i < array.Length; i++)
     {
-        if (i != array1.Length)
+        if (i != (array.Length-1))
         {
-            Console.Write($"{array1[i]}, ");
+            Console.Write($"{array[i]}, ");
         }
-        else Console.Write($"{array1[i-1]}] ");
+        else Console.Write($"{array[i]}] ");
     }
     Console.WriteLine($"\b");
 }
 
-homework_C#_04
 Console.Write("Input Size of Array: ");
 int size1 = Convert.ToInt32(Console.ReadLine ());
 Console.Write("Input Min Possible Value of Array: ");
